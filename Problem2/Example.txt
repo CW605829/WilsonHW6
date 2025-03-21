@@ -1,0 +1,9 @@
+This is the file that I am writing code that will be copied into another file using the code myCopier.
+Ove had, as usual, gotten up ten minutes earlier. He could not make head nor tail of people who overslept
+and blamed it on "the alarm clock not ringing." Ove had never owned an alarm clock in his entire life. 
+He woke up at quarter to six and that was when he got up. Every morning for the almost four decades they 
+had lived in this house, Ove had put on the coffee percolator, using exactly the same amount of coffee as 
+on any other morning, and then drank a cup with his wife. One measure for each cup, and one extra for the 
+pot—no more, no less. People didn't know how to do that anymore, brew some proper coffee. In the same way 
+as nowadays nobody could write with a pen. Because now it was all computers and espresso machines. And where 
+was the world going if people couldn't even write or brew a pot of coffee?
